@@ -1,6 +1,6 @@
 # Cybersecurity Fundamentals
 
-A collection of beginner-friendly Python cybersecurity scripts built using Python's standard library. These tools are intended for educational purposes and help demonstrate basic security concepts such as network scanning, password hashing, and file integrity verification.
+A collection of beginner-friendly Python cybersecurity scripts built using Python's standard library.
 
 ## Repository Structure
 
