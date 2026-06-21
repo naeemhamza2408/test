@@ -1,13 +1,22 @@
 # Cybersecurity Fundamentals
 
-A collection of beginner-friendly Python security scripts for learning purposes.
+A collection of beginner-friendly Python cybersecurity scripts.
 
-## Scripts
+## Scripts Included
 
-- `port_scanner.py` - Basic TCP port scanner using Python sockets
-- `password_hasher.py` - Hash passwords using SHA-256
-- `file_hash_checker.py` - Generate SHA-256 hashes for files
+### 1. Port Scanner
+Scans common TCP ports on a target host.
+
+### 2. Password Hasher
+Generates SHA-256 hashes for passwords.
+
+### 3. File Hash Checker
+Calculates SHA-256 hashes for files to verify integrity.
+
+## Requirements
+
+- Python 3.x
 
 ## Disclaimer
 
-These scripts are for educational and authorized testing purposes only
+These scripts are for educational and authorized testing purposes only.
